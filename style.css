@@ -581,6 +581,11 @@ textarea {
     text-align: center;
   }
 
+  .footer-wrap {
+    background-image: url("./Images/contacts.png");
+    background-position: center;
+  }
+
 }
 
 @media (min-width: 975px) {
